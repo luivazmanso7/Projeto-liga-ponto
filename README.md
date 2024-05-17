@@ -6,13 +6,16 @@ O projeto "ligapontos" é uma aplicação simples que desenha formas geométrica
 ## Funcionamento
 O código do projeto "ligapontos" consiste em duas partes principais:
 
-## Objetivo
-Promover a inclusão entre todos os alunos, e estimular a habilidade de trabalho em equipe e comunicação, com foco principal nos alunos neurodivergentes.
 
 1. **Definição das Formas Geométricas:** As formas geométricas são definidas por listas de pontos na matriz 7x7. Cada ponto é representado por um número correspondente à posição na matriz.
 
 2. **Acendimento das LEDs:** Uma vez definidas as formas geométricas, o programa acende as LEDs correspondentes a cada ponto das formas.
 
+## Objetivo
+Promover a inclusão entre todos os alunos, e estimular a habilidade de trabalho em equipe e comunicação, com foco principal nos alunos neurodivergentes.
+
+1. **Trabalho em equipe e comunicação:** Os jogadores terão que  
+   
 ## Como Usar
 Para usar o projeto "ligapontos", basta executar o código no ambiente adequado. Certifique-se de que as configurações de pinos e LEDs estão corretas para o seu hardware.
 
