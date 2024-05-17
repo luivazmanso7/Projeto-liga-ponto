@@ -1,7 +1,7 @@
 # Ligapontos
 
 ## Descrição
-O projeto "ligapontos" é uma aplicação simples que desenha formas geométricas em uma matriz de LEDs, como um jogo de ligar pontos. Cada forma geométrica é definida por uma lista de pontos na matriz e as LEDs correspondentes são acesas para representar a forma.
+O projeto "ligapontos" é uma aplicação simples que desenha formas geométricas em uma matriz de LEDs, como um jogo de ligar pontos. Cada forma geométrica é definida por uma lista de pontos na matriz e as LEDs correspondentes são acesas para representar a forma de um lado do prisma triangular, apartir disso o outro jogador do outro lado do prisma terá que montar a forma exibida pelas LEDs apartir das coordenadas do prisma e da comunicação entre os jogadores.
 
 ## Funcionamento
 O código do projeto "ligapontos" consiste em duas partes principais:
